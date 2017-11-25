@@ -37,7 +37,7 @@ curl  https://get.acme.sh | sh
 #克隆V2ray.fun项目
 cd /usr/local/
 rm -R v2ray.fun
-git clone https://github.com/FunctionClub/v2ray.fun
+git clone https://github.com/Readour/v2ray.fun
 
 #安装V2ray主程序
 bash <(curl -L -s https://install.direct/go.sh)
@@ -58,4 +58,5 @@ service v2ray restart
 clear
 
 echo "V2ray.fun 安装成功！By: 雨落无声"
+echo "脚本永久删除停更，长夜漫漫，祝君安好"
 echo "输入 v2ray 回车即可使用"
