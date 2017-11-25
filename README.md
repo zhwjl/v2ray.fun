@@ -59,6 +59,11 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/readour/v2ray.f
 wget -N --no-check-certificate https://raw.githubusercontent.com/readour/v2ray.fun/master/uninstall.sh && bash uninstall.sh
 ```
 
+## 离线安装
+```bash 
+#该离线安装适用于网络状况不好，导致缺少文件的情况。亦可下载该脚本用于备份
+wget -N --no-check-certificate https://github.com/Readour/v2ray.fun/releases/download/1.0/install_v2ray.sh && bash install_v2ray.sh```
+
 ## 更新日志
 
 **2017.9.4**
