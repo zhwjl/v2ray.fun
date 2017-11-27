@@ -46,23 +46,23 @@ V2ray控制脚本，向导式更改端口，加密方式，传输协议，享受
 ## 安装命令
 
 ```bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/readour/v2ray.fun/master/install.sh && bash install.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/zhwjl/v2ray.fun/master/install.sh && bash install.sh
 ```
 
 ## 升级命令
 ```bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/readour/v2ray.fun/master/upgrade.sh && bash upgrade.sh && rm -rf upgrade.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/zhwjl/v2ray.fun/master/upgrade.sh && bash upgrade.sh && rm -rf upgrade.sh
 ```
 
 ## 卸载命令
 ```bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/readour/v2ray.fun/master/uninstall.sh && bash uninstall.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/zhwjl/v2ray.fun/master/uninstall.sh && bash uninstall.sh
 ```
 
 ## 离线安装
 ```bash 
 #该离线安装适用于网络状况不好，导致缺少文件的情况。亦可下载该脚本用于备份
-wget -N --no-check-certificate https://github.com/Readour/v2ray.fun/releases/download/1.0/install_v2ray.sh && bash install_v2ray.sh
+wget -N --no-check-certificate https://github.com/Readour/v2ray.fun/zhwjl/download/1.0/install_v2ray.sh && bash install_v2ray.sh
 ```
 
 ## 更新日志
